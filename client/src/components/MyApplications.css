@@ -1,0 +1,19 @@
+.applications-container {
+  padding: 40px;
+  background: linear-gradient(to right, #f9f9f9, #e0f7fa);
+  min-height: 100vh;
+}
+
+.applications-list {
+  list-style: none;
+  padding: 0;
+}
+
+.application-card {
+  background-color: #ffffff;
+  margin: 12px 0;
+  padding: 20px;
+  border-left: 5px solid #1976d2;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  border-radius: 6px;
+}
