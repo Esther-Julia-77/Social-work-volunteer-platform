@@ -41,7 +41,7 @@ Designed with a **modern, responsive interface** and **secure backend**, this sy
 
 | Layer        | Technology |
 |--------------|------------|
-| **Frontend** | React.js, HTML5, CSS3, JavaScript, Tailwind CSS |
+| **Frontend** | React.js, HTML5, CSS3, JavaScript |
 | **Backend**  | Node.js, Express.js |
 | **Database** | MongoDB Atlas |
 | **Authentication** | JWT (JSON Web Token), bcrypt.js |
