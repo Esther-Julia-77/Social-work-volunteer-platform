@@ -85,6 +85,9 @@ Designed with a **modern, responsive interface** and **secure backend**, this sy
 5. **Track Your Journey** – Review your past applications and service history.  
 
 ---
+## SCREENSHOTS
+<img width="1891" height="1000" alt="Screenshot 2025-08-09 194148" src="https://github.com/user-attachments/assets/92c7337c-e430-4c89-b6cc-f96711bf1d61" />
+
 
 ## 🚀 Installation & Setup Guide
 
