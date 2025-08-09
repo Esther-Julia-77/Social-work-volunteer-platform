@@ -89,23 +89,16 @@ Designed with a **modern, responsive interface** and **secure backend**, this sy
 
 ## 📷 Screenshots
 
-### 🏠 Landing Page
-<img width="100%" alt="Landing Page" src="https://github.com/user-attachments/assets/92c7337c-e430-4c89-b6cc-f96711bf1d61" />
+| 🏠 Landing Page | 📌 Available Volunteer Opportunities |
+|-----------------|--------------------------------------|
+| ![Landing Page](https://github.com/user-attachments/assets/92c7337c-e430-4c89-b6cc-f96711bf1d61) | ![Available Volunteer Opportunities](https://github.com/user-attachments/assets/34d81df5-f059-45bf-9647-60a27e0dbc60) |
+
+| 📝 Volunteer Application | 📜 My Applications |
+|--------------------------|--------------------|
+| ![Volunteer Application](https://github.com/user-attachments/assets/9d955f65-2ac2-45d6-87c7-c1c1a3ff09ce) | ![My Applications](https://github.com/user-attachments/assets/fd336a5a-d233-4fee-82e5-0b956c15b6ed) |
 
 ---
 
-### 📌 Available Volunteer Opportunities
-<img width="100%" alt="Available Volunteer Opportunities" src="https://github.com/user-attachments/assets/34d81df5-f059-45bf-9647-60a27e0dbc60" />
-
----
-
-### 📝 Volunteer Application
-<img width="100%" alt="Volunteer Application" src="https://github.com/user-attachments/assets/9d955f65-2ac2-45d6-87c7-c1c1a3ff09ce" />
-
----
-
-### 📜 My Applications
-<img width="100%" alt="My Applications" src="https://github.com/user-attachments/assets/fd336a5a-d233-4fee-82e5-0b956c15b6ed" />
 
 ---
 
