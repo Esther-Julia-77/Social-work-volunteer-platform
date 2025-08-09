@@ -85,15 +85,29 @@ Designed with a **modern, responsive interface** and **secure backend**, this sy
 5. **Track Your Journey** – Review your past applications and service history.  
 
 ---
-## SCREENSHOTS
-## Landing page
-<img width="1891" height="1000" alt="Screenshot 2025-08-09 194148" src="https://github.com/user-attachments/assets/92c7337c-e430-4c89-b6cc-f96711bf1d61" />
-## Available Volunteer opportunities
-<img width="1857" height="989" alt="Screenshot 2025-08-09 194402" src="https://github.com/user-attachments/assets/34d81df5-f059-45bf-9647-60a27e0dbc60" />
-## Volunteer application
-<img width="1866" height="929" alt="Screenshot 2025-08-09 194509" src="https://github.com/user-attachments/assets/9d955f65-2ac2-45d6-87c7-c1c1a3ff09ce" />
-## My applications
-<img width="1849" height="943" alt="Screenshot 2025-08-09 194652" src="https://github.com/user-attachments/assets/fd336a5a-d233-4fee-82e5-0b956c15b6ed" />
+---
+
+## 📷 Screenshots
+
+### 🏠 Landing Page
+<img width="100%" alt="Landing Page" src="https://github.com/user-attachments/assets/92c7337c-e430-4c89-b6cc-f96711bf1d61" />
+
+---
+
+### 📌 Available Volunteer Opportunities
+<img width="100%" alt="Available Volunteer Opportunities" src="https://github.com/user-attachments/assets/34d81df5-f059-45bf-9647-60a27e0dbc60" />
+
+---
+
+### 📝 Volunteer Application
+<img width="100%" alt="Volunteer Application" src="https://github.com/user-attachments/assets/9d955f65-2ac2-45d6-87c7-c1c1a3ff09ce" />
+
+---
+
+### 📜 My Applications
+<img width="100%" alt="My Applications" src="https://github.com/user-attachments/assets/fd336a5a-d233-4fee-82e5-0b956c15b6ed" />
+
+---
 
 ## 🚀 Installation & Setup Guide
 
