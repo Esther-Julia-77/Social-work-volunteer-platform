@@ -85,8 +85,6 @@ Designed with a **modern, responsive interface** and **secure backend**, this sy
 5. **Track Your Journey** – Review your past applications and service history.  
 
 ---
----
----
 
 ## 📷 Screenshots
 
