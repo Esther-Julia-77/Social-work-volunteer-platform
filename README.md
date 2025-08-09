@@ -108,11 +108,6 @@ Designed with a **modern, responsive interface** and **secure backend**, this sy
 
 ---
 
----
-
-
----
-
 ## 🚀 Installation & Setup Guide
 
 ### Clone the repository
